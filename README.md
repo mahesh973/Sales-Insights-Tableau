@@ -2,6 +2,10 @@
 
 ## Sales Insights Data Analysis Project
 
+### Preview
+
+<img width="1503" alt="image" src="https://user-images.githubusercontent.com/59694546/220733586-afb9bb5a-a436-4c50-95df-d48b010b83b2.png">
+
 
 ### Data Analysis Using SQL
 
