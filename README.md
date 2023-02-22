@@ -7,6 +7,11 @@
 <img width="1503" alt="image" src="https://user-images.githubusercontent.com/59694546/220733586-afb9bb5a-a436-4c50-95df-d48b010b83b2.png">
 
 
+## Project Objective and Success Criteria (AIMS Grid)
+
+<img width="1661" alt="image" src="https://user-images.githubusercontent.com/59694546/220734774-7c75281f-af42-422b-bb7f-9e5475cbc331.png">
+
+
 ### Data Analysis Using SQL
 
 1. Show all customer records
