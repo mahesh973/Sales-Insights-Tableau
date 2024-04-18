@@ -1,7 +1,5 @@
 # Sales-Insights-Tableau
 
-## Sales Insights Data Analysis Project
-
 Link to the dashboard: https://prod-useast-a.online.tableau.com/t/tableaumahesh/views/Sales_Insights/Dashboard1
 
 ### Preview
